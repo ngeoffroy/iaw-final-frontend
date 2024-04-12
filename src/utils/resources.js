@@ -1,0 +1,10 @@
+export const ESTADO_SOLICITUDES = {
+  0: "PENDIENTE",
+  1: "RECHAZADA",
+  2: "TERMINADO",
+};
+
+export const ESTADO_AUTORIZACION = {
+  0: "NO_AUTORIZADO",
+  1: "AUTORIZADO",
+};
